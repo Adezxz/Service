@@ -230,7 +230,6 @@ Jynaris
 Pyrionis
 Rythor
 Zythor
-Krython
 Qyvran
 Tynra
 Jorathis
@@ -248,11 +247,7 @@ Theryn
 Qynther
 Jorvith
 Rhygaris
-Nyxir
-Vyrion
 Jynath
-Kryth
-Zythra
 Xyndrath
 Phylaris
 Myzorn
@@ -260,11 +255,9 @@ Qytheron
 Vexoth
 Jynoth
 Kralith
-Rynax
 Tylrion
-Xynas
 Kryfin
 Qyvlar
-Joryx
-Phyron
-Zathor
+
+
+
