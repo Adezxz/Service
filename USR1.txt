@@ -1,23 +1,31 @@
-Thryphic
+Talvyn
+Quelor
+Jaquri
+Ulmeri
+Phaeta 
+Yalura 
+Nyvara
+Drethor
+Runanga 
+Qantril
+Wadjen 
+Thindor
+Bralith
 Ayrindal
 Lumithra
-Qantril
 Gravonix
 Jorathal
 Tiraphim
 Xelithar
-Bralith
 Vynclor
-Drethor
 Pelthara
 Krythak
 Synthelis
 Valkorin
 Zindrath
-Jaquri
+Thryphic
 Myrinth
 Frellion
-Thindor
 Gryssok
 Krethim
 Zylokar
@@ -83,9 +91,9 @@ Ytharion
 Blithara
 Vandorak
 Talvyn
-
-
-
+Fylorae
+Ulverin
+Glyvon
 
 
 
